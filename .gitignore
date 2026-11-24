@@ -1,9 +1,2 @@
 .venv
-recovery_results
-*.csv
 src
-C_simulate_data_solution.ipynb
-recovery_results/*
-real_results/*
-D_recovery_fitting_solution.ipynb
-E_results_solution.ipynb

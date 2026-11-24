@@ -41,3 +41,7 @@ You might need to register the Python kernel for VScode to detect it. To do so, 
 ```{bash}
 uv run python -m ipykernel install --user --name python311 --display-name "Python 3.11 (uv)"
 ```
+
+## Questions to answer about the code:
+
+conda create --name neurocomp --file conda-lock.yaml
