@@ -1,0 +1,4 @@
+name: my-env
+channels:
+  - conda-forge
+prefix: C:\Users\Romain\miniforge3\envs\my-env
