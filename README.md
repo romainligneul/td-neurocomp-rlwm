@@ -10,6 +10,9 @@ In this practical, we will:
 > [!IMPORTANT]  
 > Please follow the steps below ("Preparing the practical session") to prepare the practical session, and avoid needing internet during the session itself.
 
+> [!NOTE]  
+> The notebook A_import_csv_data.ipynb won't run as it needs the raw data, but only the imported/preprocessed_data is available for this tutorial. It is here just for reference
+
 ## Preparing the practical session
 
 ### 1 - Getting VScode or equivalent (IDE)
